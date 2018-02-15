@@ -13,3 +13,6 @@ It seems very similar to ruby and I liked that.  It wasn't too hard to pick up, 
 1. Get into the virtual environment. In command line run: $ source myvenv/bin/activate
 2. Start the server. In command line run: python manage.py runserver
 3. In your browser run: http://localhost:8000
+
+## This project was completed using:
+https://tutorial.djangogirls.org/en/
